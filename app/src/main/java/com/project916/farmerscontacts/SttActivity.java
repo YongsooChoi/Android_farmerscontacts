@@ -21,7 +21,7 @@ import static android.Manifest.permission.RECORD_AUDIO;
 public class SttActivity extends AppCompatActivity {
 
     // Replace below with your own subscription key
-    private static String speechSubscriptionKey = "09c0b35ba92e4b25a1f4726e2394fe32";
+    private static String speechSubscriptionKey = "SubscriptionKey";
     // Replace below with your own service region (e.g., "westus").
     private static String serviceRegion = "eastasia";
 
